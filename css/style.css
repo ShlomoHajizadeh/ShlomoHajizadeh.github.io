@@ -143,8 +143,8 @@ section {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 4rem;
-    height: 4rem;
+    width: 16rem;
+    height: 16rem;
     background: transparent;
     border: .2rem solid var(--main-color);
     border-radius: 50%;
@@ -158,6 +158,8 @@ section {
 .home-content .social-media a:hover {
     background: var(--main-color);
     color: var(--white-color);
+    width: 20rem;
+    height: 20rem;
 }
 
 .btn {
