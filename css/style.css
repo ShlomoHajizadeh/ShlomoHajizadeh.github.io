@@ -389,7 +389,7 @@ span {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    gap: 2rem;
+    gap: 1rem;
 }
 
 .portfolio-container .portfolio-box {
