@@ -378,7 +378,7 @@ span {
 }
 
 .portfolio {
-    padding-bottom: 10rem;
+    padding-bottom: 4rem;
 }
 
 .portfolio h2 {
@@ -389,7 +389,7 @@ span {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .portfolio-container .portfolio-box {
